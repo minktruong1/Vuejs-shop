@@ -1,0 +1,301 @@
+[{
+  "_id": {
+    "$oid": "62679eec692cd1f800d78acf"
+  },
+  "title": "SOO Balo Fit Nguyên Bản H55",
+  "desc": "H55 - ESSENTIAL BACKPACK  Chất liệu: - Vài chính: 900D PVC Water proof + Lót 210D Logo chữ Y - PE foam 5mm + Air Mesh quai đeo và lưng chống sốc tuyệt đối. - Logo YaMe cùng Nhãn chữ Y/H55 chính hãng - Dây kéo YKK #8 siêu bền Thiết kế thời trang & Đa dụng - Nhiều ngăn đa tính năng - Ngăn chính rộng - Ngăn chống shock cho Laptop - Ngăn nhỏ bên trong tiện dụng - Ngăn phụ ngoài Màu sắc: Đỏ - Xanh Đen - Xám trắng - Xám đậm Kích thước: 43 x 33 x 13cm",
+  "img": [
+    "https://cdn2.yame.vn/pimg/bltx-u-y2010-h55-0018842/d2d4c5e7-c585-ff00-c5b1-0018fa4fc1d8.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/bltx-u-y2010-h55-0018842/fc258b38-299c-2400-bc24-00188ec5690c.jpg?w=540&h=756"
+  ],
+  "categories": "Balo",
+  "size": "FreeSize",
+  "color": "Xanh Đen",
+  "price": 149,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650958060412"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650958060412"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267a7fe692cd1f800d78b55"
+  },
+  "title": "Giày Casual Y Nguyên Bản",
+  "desc": "Giày Casual Đơn Giản Y Nguyên Bản Ver2 Chất liệu: - Vật tư chính: 100% Da - Lót Vòng cổ 100% Da - Lót thân + lưỡi gà Mousse 3mm + Mesh êm chân - Talon mesh + mousse 3.5mm - Dây giày cotton dệt 6mm trắng - Ô dê thông hơi - Đế cao su",
+  "img": [
+    "https://cdn2.yame.vn/pimg/giay-casual-on-gian-y-nguyen-ban-ver2-0020431/6445fdad-c5fe-8200-f773-0018b78579ad.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/giay-casual-on-gian-y-nguyen-ban-ver2-0020431/b5649960-5549-8300-937b-0018b7857a58.jpg?w=540&h=756"
+  ],
+  "categories": "Giày",
+  "size": "40",
+  "color": "Trắng",
+  "price": 400,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650960382434"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651056053898"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267bae11bafa0b255f1e721"
+  },
+  "title": "Balo Big Thần Cổ Đại Horus",
+  "desc": "Balo Big Thần Cổ Đại Horus Ver1 - Chất liệu: 900HD in chuyển nhiệt + 900HD PU Đen - Lót 210PU Cam chữ Y + Lót 210PU Đen - Bên trong lưng balo là 1 tấm EVA chống sốc - Đệm quai đeo Air mesh êm - PE foam 5mm chống sốc tuyệt đối - Phối nhựa trong 0.5mm - Dây kéo - Đầu kéo YKK #5-8 - Logo Horus thêu - Nhãn dệt chữ Y/Ver1 - Logo TPR Y2010 - Thiết kế nhiều ngăn tiện dụng + Kích thước: 42 x 30 x 13cm",
+  "img": [
+    "https://cdn2.yame.vn/pimg/balo-big-than-co-ai-horus-ver1-0020360/9daab7e0-2053-0700-cc2a-0018cfe9ac33.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/balo-big-than-co-ai-horus-ver1-0020360/918c8b7e-e85f-0200-0a40-001886a43f16.jpg?w=540&h=756"
+  ],
+  "categories": "Balo",
+  "size": "Free Size",
+  "color": "Đen",
+  "price": 399,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650965217438"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651056820630"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267bb1d1bafa0b255f1e726"
+  },
+  "title": "Balo Big Linh Vật Bbuff Ver2",
+  "desc": "Balo Big Linh Vật Bbuff Ver2 - Chất liệu: 900HD in chuyển nhiệt + 900HDPU đen - Lót 210HD trắng - Bên trong lưng balo là 1 tấm EVA chống sốc - Đệm quai đeo Air mesh êm - PE foam 5mm/8mm chống sốc tuyệt đối - Dây kéo - Đầu kéo YKK #5/8 - Nhãn dệt chữ Y/Ver2 - Logo TPR Y2010 - Thiết kế nhiều ngăn tiện dụng - Kích thước: Cao 42cm x Dài 30cm x rộng 13cm",
+  "img": [
+    "https://cdn2.yame.vn/pimg/balo-big-linh-vat-bbuff-ver2-0020369/b5b0c47d-7d23-0300-7330-0018d091e07d.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/balo-big-linh-vat-bbuff-ver2-0020369/ea232552-b456-e700-23e9-0018a6e3002a.jpg?w=540&h=756"
+  ],
+  "categories": "Balo",
+  "size": "Free Size",
+  "color": "Xanh Dương Nhạt",
+  "price": 399,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650965277144"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650965277144"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267bb4d1bafa0b255f1e729"
+  },
+  "title": "Balo Big Linh Vật Bbuff Ver4",
+  "desc": "Balo Big Linh Vật Bbuff Ver4 - Chất liệu: 900HD PU in chuyển nhiệt + 900HD PU Đen - Lót 210PU Cam chữ Y + Lót 210PU Hồng - Bên trong lưng balo là 1 tấm EVA chống sốc - Đệm quai đeo Air mesh êm - PE foam 5mm chống sốc tuyệt đối - Dây kéo - Đầu kéo YKK #5/8 - Nhãn dệt chữ Y/Ver4 - Logo TPR Y2010 - Thiết kế nhiều ngăn tiện dụng - Kích thước: Cao 42cm x Dài 30cm x rộng 13cm",
+  "img": [
+    "https://cdn2.yame.vn/pimg/balo-big-linh-vat-bbuff-ver4-0020371/ad62e417-86e8-0700-2f0b-0018cfeabe51.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/balo-big-linh-vat-bbuff-ver4-0020371/20af99d0-5948-2a00-d37d-00189c0a97c4.jpg?w=540&h=756"
+  ],
+  "categories": "Balo",
+  "size": "Free Size",
+  "color": "Hồng",
+  "price": 400,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650965325152"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650965325152"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267bba21bafa0b255f1e731"
+  },
+  "title": "Giày Casual Nguyên Bản M3",
+  "desc": "Chất liệu: Microfiber Đế: Cao Su",
+  "img": [
+    "https://cdn2.yame.vn/pimg/giay-luoi-y2010-al02-0019830/8be84af5-c87d-0f00-e633-00174d403d56.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/giay-luoi-y2010-al03-0019845/8b9d2880-ec86-0100-6c46-00175da92287.jpg?w=540&h=756"
+  ],
+  "categories": "Giày",
+  "size": "40",
+  "color": "Đen",
+  "price": 230,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650965410743"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650974728291"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267bc411bafa0b255f1e734"
+  },
+  "title": "Sandal Đế Thấp Nguyên Bản",
+  "desc": "Sandal Đế Thấp Đơn Giản M8 Chất liệu: Vật tư quai Simily dày 2.5mm - Khóa kim loại Đế : + Mặt trên đế Simily có in logo -> + Lớp Eva nằm dưới tạo sự êm ái khi mang + Phần giữa đế trấu + Mặt dưới đế EVA có hoa văn",
+  "img": [
+    "https://cdn2.yame.vn/pimg/sandal-e-thap-on-gian-m8-0020457/079b2b60-d8f4-1302-bc5a-0018b1e96261.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/sandal-e-thap-on-gian-m8-0020457/a957b9c9-1008-1402-8093-0018b1e9627b.jpg?w=540&h=756"
+  ],
+  "categories": "Giày",
+  "size": "41",
+  "color": "Trắng",
+  "price": 210,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650965569287"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651053787904"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626838d214d84e2de84213a3"
+  },
+  "title": "Áo Thun Cổ Tròn Tối Giản",
+  "desc": "Áo Thun Cổ Tròn Tối Giản Ver12 Chất liệu: Vải tổ ong Thành phần: 100% Polyester + Họa tiết thêu 2D",
+  "img": [
+    "https://cdn2.yame.vn/pimg/ao-thun-co-tron-toi-gian-ver12-0020772/8d37fdf7-e945-0200-a992-0019046480a2.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/ao-thun-co-tron-toi-gian-ver12-0020772/1453a6bd-3792-0300-4dd3-001904648163.jpg?w=540&h=756"
+  ],
+  "categories": "Áo",
+  "size": "XL",
+  "color": "Trắng",
+  "price": 150,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650997458224"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651036367964"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268cff15f88494c7db36ef0"
+  },
+  "title": "Áo Thun Cổ Tròn Linh Vật Tigeer",
+  "desc": "Áo Thun Cổ Tròn Linh Vật Tigeer Ver4 Chất liệu: Cotton 4C Thành phần: 92% cotton 8% spandex -Thân thiện - Thấm hút thoát ẩm - Mềm mại, ít nhăn - Co giãn tối ưu - Kiểm soát mùi - Điều hòa nhiệt + Họa tiết in vải cuộn",
+  "img": [
+    "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-tigeer-ver4-0020756/4dccb47f-e51b-6000-0df9-0019046a4a8b.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-tigeer-ver4-0020756/3b60c48d-e446-6100-bdc9-0019046a4b66.jpg?w=540&h=756"
+  ],
+  "categories": "Áo",
+  "size": "XL",
+  "color": "Trắng",
+  "price": 200,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651036145723"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651036145723"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268d0625f88494c7db36ef5"
+  },
+  "title": "Sơ Mi Tay Ngắn Thần Cổ Đại Horus ",
+  "desc": "Sơ Mi Tay Ngắn Thần Cổ Đại Horus Ver2 Thành phần: 30% cotton 30% tencel 40% microfiber Ưu điểm của vải: Duy trì độ ẩm cho làn da, thoáng khí, thấm hút mồ hôi, độ bền cao, khả năng chịu lực tốt, co giãn thoải mái, kháng khuẩn, ngăn mùi hiệu quả + Họa tiết in nước",
+  "img": [
+    "https://cdn2.yame.vn/pimg/so-mi-tay-ngan-than-co-ai-horus-ver2-0020566/8e7d6e96-2911-0100-73f1-0018b7818792.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/so-mi-tay-ngan-than-co-ai-horus-ver2-0020566/0d16f9ad-23a1-0200-9623-0018b78188bb.jpg?w=540&h=756"
+  ],
+  "categories": "Áo",
+  "size": "XL",
+  "color": "Xám Trắng",
+  "price": 299,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651036258544"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651036258544"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268d0aa5f88494c7db36efa"
+  },
+  "title": "Sơ Mi Cổ Danton Linh Vật Bbuff",
+  "desc": "Chất liệu: Vải dù - in chuyển nhiệt Thành phần: 100% poly - Co giãn 2 chiều - Bề mặt mềm mại - Nhanh khô - Độ bền cao + Kỹ thuật in chuyển nhiệt + may đắp logo - HDSD: + Nên sử dụng các loại bột giặt dịu nhẹ hoặc đã được pha loãng tránh làm hổng chất lượng vải. + GIặt ủi nhiệt độ thường tránh nhiệt độ quá cao sẽ ảnh hưởng đến chất lượng hình in. + Phơi trong bóng râm tránh nắng gắt .",
+  "img": [
+    "https://cdn2.yame.vn/pimg/so-mi-co-danton-linh-vat-bbuff-ver1-0020281/6c125f0b-abf8-1400-35a2-0018680a75ab.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/so-mi-co-danton-linh-vat-bbuff-ver1-0020281/1bb224dd-f917-1500-46d2-0018680a7b7e.jpg?w=540&h=756"
+  ],
+  "categories": "Áo",
+  "size": "XL",
+  "color": "Xám",
+  "price": 200,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651036330723"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651036330723"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268d13b5f88494c7db36f0d"
+  },
+  "title": "Giày Casual Nguyên Bản M7",
+  "desc": "Giày Casual Đơn Giản M7 Chất liệu: Vật tư chính Microfiber - Lót Vòng cổ Pu - Lót thân + Mesh êm chân - Trang trí thân PU - Thêu trang trí ô dê xỏ dây giày - Talon mesh + mousse 3.5mm - Dây giày cotton dệt 6mm trắng - Ô dê thông hơi - Đế cao su",
+  "img": [
+    "https://cdn2.yame.vn/pimg/giay-casual-on-gian-m7-0020408/6492cdeb-cf9e-2f00-fd22-0018b1f2a6cd.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/giay-casual-on-gian-m7-0020408/ecc03ce4-3f5b-3000-ceba-0018b1f2a6e5.jpg?w=540&h=756"
+  ],
+  "categories": "Giày",
+  "size": "40",
+  "color": "Trắng",
+  "price": 299,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651036475334"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651036475334"
+    }
+  },
+  "__v": 0
+}]

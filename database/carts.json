@@ -1,0 +1,311 @@
+[{
+  "_id": {
+    "$oid": "6268adb0029550d268a65eab"
+  },
+  "userId": "626193343fa4ce176047f63d",
+  "productId": "626838d214d84e2de84213a3",
+  "quantity": 4,
+  "title": "Áo Thun Cổ Tròn Tối Giản Ver12",
+  "img": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-toi-gian-ver12-0020772/1453a6bd-3792-0300-4dd3-001904648163.jpg?w=540&h=756",
+  "price": 150,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651027376490"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651034791138"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268ca1b5f88494c7db36de8"
+  },
+  "userId": "626193343fa4ce176047f63d",
+  "productId": "6267bae11bafa0b255f1e721",
+  "quantity": 2,
+  "title": "Balo Big Thần Cổ Đại Horus Ver1",
+  "img": "https://cdn2.yame.vn/pimg/balo-big-than-co-ai-horus-ver1-0020360/9daab7e0-2053-0700-cc2a-0018cfe9ac33.jpg?w=540&h=756",
+  "price": 399,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651034651076"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651036013383"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268ce1e5f88494c7db36e85"
+  },
+  "userId": "626193343fa4ce176047f63d",
+  "productId": "6267bb1d1bafa0b255f1e726",
+  "quantity": 1,
+  "title": "Balo Big Linh Vật Bbuff Ver2",
+  "img": "https://cdn2.yame.vn/pimg/balo-big-linh-vat-bbuff-ver2-0020369/b5b0c47d-7d23-0300-7330-0018d091e07d.jpg?w=540&h=756",
+  "price": 399,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651035678724"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651035678724"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268cf755f88494c7db36ed4"
+  },
+  "userId": "626193343fa4ce176047f63d",
+  "productId": "6267a7fe692cd1f800d78b55",
+  "quantity": 1,
+  "title": "Giày Casual Y Nguyên Bản Ver2",
+  "img": "https://cdn2.yame.vn/pimg/giay-casual-on-gian-y-nguyen-ban-ver2-0020431/6445fdad-c5fe-8200-f773-0018b78579ad.jpg?w=540&h=756",
+  "price": 400,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651036021477"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651036021477"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6269146971257604bd610504"
+  },
+  "userId": "6269143e71257604bd6104ef",
+  "productId": "6268cff15f88494c7db36ef0",
+  "quantity": 2,
+  "title": "Áo Thun Cổ Tròn Linh Vật Tigeer",
+  "img": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-tigeer-ver4-0020756/4dccb47f-e51b-6000-0df9-0019046a4a8b.jpg?w=540&h=756",
+  "price": 200,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651053673339"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651053682778"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6269185d71257604bd610559"
+  },
+  "userId": "6269183d71257604bd610548",
+  "productId": "6268cff15f88494c7db36ef0",
+  "quantity": 5,
+  "title": "Áo Thun Cổ Tròn Linh Vật Tigeer",
+  "img": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-tigeer-ver4-0020756/4dccb47f-e51b-6000-0df9-0019046a4a8b.jpg?w=540&h=756",
+  "price": 200,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651054685871"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651054701676"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626922d14f21a6d2f7e10906"
+  },
+  "userId": "626920314f21a6d2f7e10891",
+  "productId": "626838d214d84e2de84213a3",
+  "quantity": 1,
+  "title": "Áo Thun Cổ Tròn Tối Giản",
+  "img": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-toi-gian-ver12-0020772/8d37fdf7-e945-0200-a992-0019046480a2.jpg?w=540&h=756",
+  "color": "Trắng",
+  "size": "XL",
+  "price": 150,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651057361655"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651057361655"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626922f54f21a6d2f7e10912"
+  },
+  "userId": "626922e94f21a6d2f7e1090a",
+  "productId": "626838d214d84e2de84213a3",
+  "quantity": 1,
+  "title": "Áo Thun Cổ Tròn Tối Giản",
+  "img": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-toi-gian-ver12-0020772/8d37fdf7-e945-0200-a992-0019046480a2.jpg?w=540&h=756",
+  "color": "Trắng",
+  "size": "XL",
+  "price": 150,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651057397601"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651057397601"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626931dd6b8aa3dce69311c5"
+  },
+  "userId": "626931d16b8aa3dce69311bd",
+  "productId": "6268d0625f88494c7db36ef5",
+  "quantity": 2,
+  "title": "Sơ Mi Tay Ngắn Thần Cổ Đại Horus ",
+  "img": "https://cdn2.yame.vn/pimg/so-mi-tay-ngan-than-co-ai-horus-ver2-0020566/8e7d6e96-2911-0100-73f1-0018b7818792.jpg?w=540&h=756",
+  "color": "Xám Trắng",
+  "size": "XL",
+  "price": 299,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651061213049"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651065884092"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6269588ec19025d6d113db65"
+  },
+  "userId": "6269582dc19025d6d113db41",
+  "productId": "6268cff15f88494c7db36ef0",
+  "quantity": 3,
+  "title": "Áo Thun Cổ Tròn Linh Vật Tigeer",
+  "img": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-tigeer-ver4-0020756/4dccb47f-e51b-6000-0df9-0019046a4a8b.jpg?w=540&h=756",
+  "color": "Trắng",
+  "size": "XL",
+  "price": 200,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651071118470"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651073884698"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626958a0c19025d6d113db77"
+  },
+  "userId": "626957ccc19025d6d113db36",
+  "productId": "6268cff15f88494c7db36ef0",
+  "quantity": 1,
+  "title": "Áo Thun Cổ Tròn Linh Vật Tigeer",
+  "img": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-tigeer-ver4-0020756/4dccb47f-e51b-6000-0df9-0019046a4a8b.jpg?w=540&h=756",
+  "color": "Trắng",
+  "size": "XL",
+  "price": 200,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651071136652"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651071136652"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626958b2c19025d6d113db84"
+  },
+  "userId": "626957ccc19025d6d113db36",
+  "productId": "6268d0625f88494c7db36ef5",
+  "quantity": 1,
+  "title": "Sơ Mi Tay Ngắn Thần Cổ Đại Horus ",
+  "img": "https://cdn2.yame.vn/pimg/so-mi-tay-ngan-than-co-ai-horus-ver2-0020566/8e7d6e96-2911-0100-73f1-0018b7818792.jpg?w=540&h=756",
+  "color": "Xám Trắng",
+  "size": "XL",
+  "price": 299,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651071154921"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651071154921"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6269673960d34bb4d6e93592"
+  },
+  "userId": "6269582dc19025d6d113db41",
+  "productId": "6267bb4d1bafa0b255f1e729",
+  "quantity": 1,
+  "title": "Balo Big Linh Vật Bbuff Ver4",
+  "img": "https://cdn2.yame.vn/pimg/balo-big-linh-vat-bbuff-ver4-0020371/ad62e417-86e8-0700-2f0b-0018cfeabe51.jpg?w=540&h=756",
+  "color": "Hồng",
+  "size": "Free Size",
+  "price": 400,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651074873387"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651074873387"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6269674560d34bb4d6e9359c"
+  },
+  "userId": "626957ccc19025d6d113db36",
+  "productId": "6267bb4d1bafa0b255f1e729",
+  "quantity": 1,
+  "title": "Balo Big Linh Vật Bbuff Ver4",
+  "img": "https://cdn2.yame.vn/pimg/balo-big-linh-vat-bbuff-ver4-0020371/ad62e417-86e8-0700-2f0b-0018cfeabe51.jpg?w=540&h=756",
+  "color": "Hồng",
+  "size": "Free Size",
+  "price": 400,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651074885640"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651074885640"
+    }
+  },
+  "__v": 0
+}]
