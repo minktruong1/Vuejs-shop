@@ -1,39 +1,31 @@
 [{
   "_id": {
-    "$oid": "626957ccc19025d6d113db36"
+    "$oid": "644ab1328fc705a9a6538e11"
   },
-  "username": "thang",
-  "email": "thang@gmail.com",
-  "password": "U2FsdGVkX19I7JsMcFp1f4D3BUzKiTodJ/jmi3HoE7c=",
-  "isAdmin": false,
+  "username": "Minh",
+  "email": "minh10b2sadec@gmail.com",
+  "password": "U2FsdGVkX1/ZTnWB0TOuz3sr7nyc78gsDlX+j7toL4Q=",
+  "isAdmin": true,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1651070924966"
-    }
+    "$date": "2023-04-27T17:30:26.947Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1651070924966"
-    }
+    "$date": "2023-04-27T17:30:26.947Z"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "6269582dc19025d6d113db41"
+    "$oid": "644c8f8b06c40665b3991708"
   },
-  "username": "admin",
-  "email": "admin@gmail.com",
-  "password": "U2FsdGVkX1/9CJUGTcWZUjYg447kkw58ETX2a3H42MQ=",
-  "isAdmin": true,
+  "username": "minhpro207",
+  "email": "minhpro207@yahoo.com",
+  "password": "U2FsdGVkX1+ny3GxukqlJHe2c2AoHtyD3/AH04hPONw=",
+  "isAdmin": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1651071021240"
-    }
+    "$date": "2023-04-29T03:31:23.980Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1651071021240"
-    }
+    "$date": "2023-04-29T03:31:23.980Z"
   },
   "__v": 0
 }]

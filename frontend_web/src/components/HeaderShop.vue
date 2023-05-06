@@ -69,178 +69,181 @@ export default {
 };
 </script>
 <template>
-  <header
-    style="background-color: #f1f0f1"
-    class="navbar navbar-expand-lg navbar-dark"
-  >
-    <div class="container">
-      <a class="navbar-brand" href="/">
-        <img
-          src="https://drive.google.com/uc?id=1ZxkjBxFFiS-Tdi6VKxRSFG76BevGUeao"
-          alt="Vue shop icon"
-          style="width: 220px"
-        />
-      </a>
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-bs-toggle="collapse"
-        data-bs-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item">
-            <router-link to="/" class="nav-link" aria-current="page">
-              Trang Chủ
-            </router-link>
-          </li>
-          <li class="nav-item dropdown">
-            <a
-              class="nav-link dropdown-toggle"
-              href="#"
-              id="navbarDropdown"
-              role="button"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
-            >
-              Sản phẩm
-            </a>
-            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <li><a class="dropdown-item" href="#AoPhong">Áo phông</a></li>
-              <li><a class="dropdown-item" href="#Polo">Polo</a></li>
-              <li><a class="dropdown-item" href="#Hoodie">Hoodie</a></li>
-            </ul>
-          </li>
-          <div id="search__area">
-            <form className="d-flex" role="search" onSubmit="{handleSubmit}">
-              <input
-                className=" me-2"
-                type="search"
-                placeholder="Tìm kiếm"
-                aria-label="Search"
-              />
-              <button className="" type="submit">
-                <i
-                  style="font-size: 16px; color: white"
-                  class="bi bi-search icon"
-                >
-                </i>
-              </button>
-            </form>
-          </div>
-        </ul>
-
-        <div class="User">
-          <div class="not-login">
-            <i
-              class="bi bi-person-circle icon"
-              data-bs-toggle="collapse"
-              href="#user"
-            ></i>
-            <div class="collapse user_link" id="user">
-              <div class="card card-body connect-shop">
-                <router-link style="color: black" to="/login"
-                  >Đăng nhập</router-link
-                >
-                <router-link style="color: black" to="/signup"
-                  >Đăng ký</router-link
-                >
-              </div>
+  <div>
+    <header
+      style="background-color: #f1f0f1"
+      class="navbar navbar-expand-lg navbar-dark"
+    >
+      <div class="container">
+        <a class="navbar-brand" href="/">
+          <img
+            src="https://drive.google.com/uc?id=1ZxkjBxFFiS-Tdi6VKxRSFG76BevGUeao"
+            alt="Vue shop icon"
+            style="width: 220px"
+          />
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <router-link to="/" class="nav-link" aria-current="page">
+                Trang Chủ
+              </router-link>
+            </li>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Sản phẩm
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="#AoPhong">Áo phông</a></li>
+                <li><a class="dropdown-item" href="#Polo">Polo</a></li>
+                <li><a class="dropdown-item" href="#Hoodie">Hoodie</a></li>
+              </ul>
+            </li>
+            <div id="search__area">
+              <form className="d-flex" role="search" onSubmit="{handleSubmit}">
+                <input
+                  className=" me-2"
+                  type="search"
+                  placeholder="Tìm kiếm"
+                  aria-label="Search"
+                />
+                <button className="" type="submit">
+                  <i
+                    style="font-size: 16px; color: white"
+                    class="bi bi-search icon"
+                  >
+                  </i>
+                </button>
+              </form>
             </div>
-          </div>
-          <div class="login">
-            <div>
-              <span
-                style="cursor: pointer"
-                class="data_user"
+          </ul>
+
+          <div class="User">
+            <div class="not-login">
+              <i
+                class="bi bi-person-circle icon"
                 data-bs-toggle="collapse"
                 href="#user"
-              >
-                <i style="margin-left: 4px" class="bi bi-caret-down-fill"></i>
-              </span>
+              ></i>
+              <div class="collapse user_link" id="user">
+                <div class="card card-body connect-shop">
+                  <router-link style="color: black" to="/login"
+                    >Đăng nhập</router-link
+                  >
+                  <router-link style="color: black" to="/signup"
+                    >Đăng ký</router-link
+                  >
+                </div>
+              </div>
             </div>
-            <div class="collapse user_link" id="user">
-              <div
-                style="background-color: white"
-                class="card card-body connect-shop"
-              >
-                <router-link to="/profile" style="color: black"
-                  >Trang cá nhân</router-link
+            <div class="login">
+              <div>
+                <span
+                  style="cursor: pointer"
+                  class="data_user"
+                  data-bs-toggle="collapse"
+                  href="#user"
                 >
-                <a
-                  to="/"
-                  style="color: black; cursor: pointer"
-                  @click="handlelogout()"
-                  >Đăng xuất</a
+                  <i style="margin-left: 4px" class="bi bi-caret-down-fill"></i>
+                </span>
+              </div>
+              <div class="collapse user_link" id="user">
+                <div
+                  style="background-color: white"
+                  class="card card-body connect-shop"
                 >
+                  <router-link to="/profile" style="color: black"
+                    >Trang cá nhân</router-link
+                  >
+                  <a
+                    to="/"
+                    style="color: black; cursor: pointer"
+                    @click="handlelogout()"
+                    >Đăng xuất</a
+                  >
+                </div>
               </div>
             </div>
           </div>
-        </div>
 
-        <div class="Cart">
-          <div class="wrapper_cart">
-            <div class="cart_link" id="cart_link">
-              <div
-                style="
-                  background-color: white;
-                  box-shadow: 0 -4px 32px rgba(0, 0, 0, 0.2);
-                "
-                class="card card-body cart-info"
-              >
-                <h3>Your cart</h3>
+          <div class="Cart">
+            <div class="wrapper_cart">
+              <div class="cart_link" id="cart_link">
+                <div
+                  style="
+                    background-color: white;
+                    box-shadow: 0 -4px 32px rgba(0, 0, 0, 0.2);
+                  "
+                  class="card card-body cart-info"
+                >
+                  <h3>Your cart</h3>
 
-                <div class="cart-list">
-                  <router-link to="/cart" style="text-decoration: none">
-                    <div class="item_cart" v-for="item in carts">
-                      <div class="item-img">
-                        <img :src="item.img" class="img-product" alt="" />
+                  <div class="cart-list">
+                    <router-link to="/cart" style="text-decoration: none">
+                      <div class="item_cart" v-for="item in carts">
+                        <div class="item-img">
+                          <img :src="item.img" class="img-product" alt="" />
+                        </div>
+                        <div class="item-name">
+                          <span style="color: black" class="name-product">{{
+                            item.title
+                          }}</span>
+                        </div>
+                        <div class="item-price">
+                          <span style="color: black" class="price-product"
+                            >{{ item.price }}$</span
+                          >
+                        </div>
+                        <div class="item-quantity">
+                          <span style="color: black" class="quantity-product"
+                            >x{{ item.quantity }}</span
+                          >
+                        </div>
                       </div>
-                      <div class="item-name">
-                        <span style="color: black" class="name-product">{{
-                          item.title
-                        }}</span>
-                      </div>
-                      <div class="item-price">
-                        <span style="color: black" class="price-product"
-                          >{{ item.price }}$</span
-                        >
-                      </div>
-                      <div class="item-quantity">
-                        <span style="color: black" class="quantity-product"
-                          >x{{ item.quantity }}</span
-                        >
-                      </div>
-                    </div>
-                  </router-link>
-                </div>
-                <div class="footer-cart">
-                  <span class="text-light"
-                    >Có <span class="lenghtCart">{{ getlengthcarts }}</span> sản
-                    phẩm trong giỏ hàng
-                  </span>
-                  <button
-                    class="btn btn-danger"
-                    type="button"
-                    @click="gotocart"
-                  >
-                    Vào giỏ hàng
-                  </button>
+                    </router-link>
+                  </div>
+                  <div class="footer-cart">
+                    <span class="text-light"
+                      >Có
+                      <span class="lenghtCart">{{ getlengthcarts }}</span> sản
+                      phẩm trong giỏ hàng
+                    </span>
+                    <button
+                      class="btn btn-danger"
+                      type="button"
+                      @click="gotocart"
+                    >
+                      Vào giỏ hàng
+                    </button>
+                  </div>
                 </div>
               </div>
+              <i class="bi bi-cart-fill icon icon_cart"></i>
+              <span class="quantity_cart">{{ getlengthcarts }}</span>
             </div>
-            <i class="bi bi-cart-fill icon icon_cart"></i>
-            <span class="quantity_cart">{{ getlengthcarts }}</span>
           </div>
         </div>
       </div>
-    </div>
-  </header>
+    </header>
+  </div>
 </template>
 <style scoped>
 header {

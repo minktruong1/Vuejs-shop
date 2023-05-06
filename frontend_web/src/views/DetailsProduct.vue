@@ -114,6 +114,7 @@ export default {
                 class="carousel-item"
                 v-for="(img, index) in detailproduct.img"
                 :class="{ active: index == 0 }"
+                :key="index"
               >
                 <img
                   :src="img"
