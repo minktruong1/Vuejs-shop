@@ -1,5 +1,6 @@
 <template>
   <div
+    style="width: 80%"
     id="carouselExampleCaptions"
     class="carousel slide container"
     data-bs-ride="carousel"
@@ -69,8 +70,4 @@
     </button>
   </div>
 </template>
-<style scoped>
-.carousel-item {
-  height: 600px;
-}
-</style>
+<style scoped></style>

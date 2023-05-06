@@ -95,7 +95,7 @@ export default {
                       <div
                         class="d-flex justify-content-between align-items-center mb-5"
                       >
-                        <h1 class="fw-bold mb-0 text-black">Shopping Cart</h1>
+                        <h1 class="fw-bold mb-0 text-black">Your Cart</h1>
                         <h6 class="mb-0 text-muted">
                           {{ carts.length }} items
                         </h6>
@@ -118,9 +118,6 @@ export default {
                   </div>
                   <div class="col-lg-4 bg-grey">
                     <div class="p-5">
-                      <h3 class="fw-bold mb-5 mt-2 pt-1">Summary</h3>
-                      <hr class="my-4" />
-
                       <div class="d-flex justify-content-between mb-4">
                         <h5 class="text-uppercase">
                           items: {{ carts.length }}
@@ -136,21 +133,6 @@ export default {
                           <option value="2">Giao hàng tiết kiệm</option>
                           <option value="3">Chuyển phát nhanh</option>
                         </select>
-                      </div>
-
-                      <h5 class="text-uppercase mb-3">VOUCHER</h5>
-
-                      <div class="mb-5">
-                        <div class="form-outline">
-                          <input
-                            type="text"
-                            id="form3Examplea2"
-                            class="form-control form-control-lg"
-                          />
-                          <label class="form-label" for="form3Examplea2"
-                            >Enter your voucher</label
-                          >
-                        </div>
                       </div>
 
                       <hr class="my-4" />

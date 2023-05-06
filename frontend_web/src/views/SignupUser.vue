@@ -19,14 +19,14 @@ export default {
     const signupform = yup.object().shape({
       name: yup
         .string()
-        .required("Tên phải có giá trị.")
+        .required("Vui lòng nhập Tên")
         .min(2, "Tên phải ít nhất 2 ký tự."),
       email: yup
         .string()
         .required("Email phải có giá trị.")
         .email("E-mail không đúng.")
         .max(50, "E-mail tối đa 50 ký tự."),
-      pwd: yup.string().required("Mật khẩu phải có giá trị."),
+      pwd: yup.string().required("Vui lòng nhập mật khẩu"),
     });
     return {
       signupform,

@@ -65,7 +65,7 @@ export default {
               class="wrapper-img"
             >
               <div class="image_slider">
-                <div class="image_item" v-for="img in item.img">
+                <div class="image_item" v-for="img in item.img" :key="img">
                   <img :src="img" class="card-img-top" alt="..." />
                 </div>
               </div>
@@ -103,7 +103,7 @@ export default {
               class="wrapper-img"
             >
               <div class="image_slider">
-                <div class="image_item" v-for="img in item.img">
+                <div class="image_item" v-for="img in item.img" :key="img">
                   <img :src="img" class="card-img-top" alt="..." />
                 </div>
               </div>
@@ -141,7 +141,7 @@ export default {
               class="wrapper-img"
             >
               <div class="image_slider">
-                <div class="image_item" v-for="img in item.img">
+                <div class="image_item" v-for="img in item.img" :key="img">
                   <img :src="img" class="card-img-top" alt="..." />
                 </div>
               </div>

@@ -38,7 +38,7 @@ export default {
     <toastsVue></toastsVue>
     <HeaderShop></HeaderShop>
     <h1 class="text-center">Thông tin cá nhân</h1>
-    <div style="display: flex" class="container">
+    <div style="display: flex" class="container,">
       <div v-if="currentUser" style="margin: 100px">
         <div class="row">
           <div class="col-md-8">

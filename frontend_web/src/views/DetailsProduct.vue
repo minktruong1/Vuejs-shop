@@ -109,19 +109,20 @@ export default {
             class="carousel slide"
             data-bs-ride="carousel"
           >
-            <div class="carousel-inner">
+            <div
+              class="carousel-inner"
+              style="
+                box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+                border-radius: 8px;
+              "
+            >
               <div
                 class="carousel-item"
                 v-for="(img, index) in detailproduct.img"
                 :class="{ active: index == 0 }"
                 :key="index"
               >
-                <img
-                  :src="img"
-                  class="d-block w-100"
-                  alt="..."
-                  style="border-radius: 8px"
-                />
+                <img :src="img" class="d-block w-100" alt="..." style="" />
               </div>
             </div>
             <button
@@ -190,7 +191,7 @@ export default {
               style="width: 150px"
               @click="getidcart()"
             >
-              Đặt hàng
+              Thêm giỏ hàng
             </button>
           </div>
         </div>

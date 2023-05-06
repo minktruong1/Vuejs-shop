@@ -197,8 +197,8 @@ export default {
                   <h3>Your cart</h3>
 
                   <div class="cart-list">
-                    <router-link to="/cart" style="text-decoration: none">
-                      <div class="item_cart" v-for="item in carts">
+                    <div style="text-decoration: none">
+                      <div class="item_cart" v-for="item in carts" :key="item">
                         <div class="item-img">
                           <img :src="item.img" class="img-product" alt="" />
                         </div>
@@ -218,7 +218,7 @@ export default {
                           >
                         </div>
                       </div>
-                    </router-link>
+                    </div>
                   </div>
                   <div class="footer-cart">
                     <span class="text-light"

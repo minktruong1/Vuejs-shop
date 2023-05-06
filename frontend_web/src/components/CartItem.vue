@@ -44,7 +44,7 @@ export default {
         </div>
       </div>
       <div class="col-md-3 col-lg-2 col-xl-2 offset-lg-1">
-        <h6 class="mb-0 price">{{ item.price * item.quantity }}</h6>
+        <h6 class="mb-0 price">{{ item.price * item.quantity }}$</h6>
       </div>
       <div class="col-md-1 col-lg-1 col-xl-1 text-end">
         <button
@@ -52,7 +52,7 @@ export default {
           @click="deletedcart(index)"
           class="text-muted btn btn-exit"
         >
-          <i class="bi bi-x-square text-danger"></i>
+          <i class="bi bi-trash3 text-danger"></i>
         </button>
       </div>
       <hr class="my-4" />
